@@ -1,1 +1,3 @@
-javac DataDeNascimento.java
+#!/bin/sh
+
+javac *.java
