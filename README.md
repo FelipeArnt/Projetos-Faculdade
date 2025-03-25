@@ -5,4 +5,4 @@
 # 💻 Projetos Faculdade - Engenharia de Software
 
 Repositório dos meus projetos acadêmicos desenvolvidos em **Java** durante a graduação em Engenharia de Software.  
-Foco em: **POO, estruturas de dados, design patterns** e aplicações práticas.
+
