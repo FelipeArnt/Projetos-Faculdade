@@ -61,7 +61,7 @@ public static void diasVividos(Usuario interativo){
             System.out.println("Digite os minutos também :");
             int minutos1 = teclado.nextInt();
             
-            if(ano1 > 2022 || ano1 < 1900 || minutos1 > 60 || mes1> 12 || mes1 < 1 || dia1 > 31 || dia1 < 1 || hora1 > 24 || hora1 < 1){System.out.println("Você digitou um número inválido!");}//menuInterativo();}
+            if(ano1 > ld.getYear() || ano1 < 1900 || minutos1 > 60 || mes1> 12 || mes1 < 1 || dia1 > 31 || dia1 < 1 || hora1 > 24 || hora1 < 1){System.out.println("Você digitou um número inválido!");}//menuInterativo();}
             
             LocalDateTime begin = LocalDateTime.of(ano1,mes1,dia1,hora1,minutos1);
             ZonedDateTime dataatualhora = ZonedDateTime.now();
