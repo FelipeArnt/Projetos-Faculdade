@@ -7,11 +7,10 @@ Programa que utiliza a data de nascimento do usuário para exibir há quanto tem
 
 ## :hammer: Funcionalidades do projeto
 
-- `Funcionalidade 1`: Contador de dias, horas e minutos vividos!
-- `Funcionalidade 2`: Seu aniversário já passou?
-- `Funcionalidade 3`: Descobrindo o dia da semana em que você nasceu!
-- `Funcionalidade 4`: Printar todos os dados do usuário!
-- `Funcionalidade 5`: Voltar ao menu interativo!
+- `Dias Vividos`: Contador de dias, horas e minutos vividos!
+- `Aniversário`: Seu aniversário já passou?
+- `Dia da Semana`: Descobrindo o dia da semana em que você nasceu!
+- `Mostrar Dados`: Printar todos os dados do usuário!
 
 ## 📁 Acesso ao projeto
 
