@@ -14,7 +14,7 @@ Repositório dos meus projetos acadêmicos desenvolvidos em **Java** durante a g
     </td>
     <td align="center">
       <a href="https://github.com/FelipeArnt/ConjugarVerbos">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=ConjugarVerbos" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=ConjugarVerbo" />
       </a>
     </td>
   </tr>
