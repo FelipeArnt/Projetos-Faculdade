@@ -10,17 +10,16 @@ Repositório dos meus projetos acadêmicos desenvolvidos em **Java** durante a g
 
 
 # Data de Nascimento
-- Programa que utiliza a data de nascimento do usuário para exibir há quanto tempo ele vive, há quanto tempo foi o aniversário e em que dia da semana o usuário nasceu!
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=Data-de-Nascimento)](https://github.com/FelipeArnt/Data-de-Nascimento)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=Projetos-Faculdade/DataNascimento)](https://github.com/FelipeArnt/Projetos-Faculdade/DataNascimento)
-
-
+# Conjugar-Verbo
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=ConjugarVerbos)](https://github.com/FelipeArnt/ConjugarVerbos)
 
 # GCS
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=GCS)](https://github.com/FelipeArnt/GCS)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=Projetos-Faculdade/GCS)](https://github.com/FelipeArnt/Projetos-Faculdade/GCS)
+# Cinema
 
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=Cinema)](https://github.com/FelipeArnt/Cinema)
 
 
