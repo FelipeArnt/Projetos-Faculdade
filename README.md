@@ -31,4 +31,18 @@ Repositório dos meus projetos acadêmicos desenvolvidos em **Java** durante a g
       </a>
     </td>
   </tr>
+    <tr>
+    <!-- Primeira linha (2 cards) -->
+    <td align="center">
+      <a href="https://github.com/FelipeArnt/Jogo-Faculdade">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=Jogo-Faculdade"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/FelipeArnt/FelipeArnt.github.io">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=FelipeArnt.github.io" />
+      </a>
+    </td>
+  </tr>
+  <tr>
 </table>
