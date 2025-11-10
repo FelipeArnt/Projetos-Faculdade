@@ -2,7 +2,7 @@
 
 # 💻 Projetos Faculdade
 
-Repositório dos meus projetos acadêmicos desenvolvidos em **Java** durante a graduação em Engenharia de Software.
+Repositório dos meus projetos acadêmicos desenvolvidos na PUC-RS.
 
 <table>
   <tr>
