@@ -17,7 +17,8 @@ Repositório dos meus projetos acadêmicos desenvolvidos na PUC-RS.
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=FelipeArnt.github.io" />
       </a>
     </td>
-    <!-- Primeira linha (2 cards) -->
+ </tr>  
+  <!-- Primeira linha (2 cards) -->
     <td align="center">
       <a href="https://github.com/FelipeArnt/Data-de-Nascimento">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=Data-de-Nascimento" />
@@ -29,7 +30,8 @@ Repositório dos meus projetos acadêmicos desenvolvidos na PUC-RS.
       </a>
     </td>
   </tr>
-  <tr>
+  
+ <tr>
     <!-- Segunda linha (2 cards) -->
     <td align="center">
       <a href="https://github.com/FelipeArnt/GCS">
